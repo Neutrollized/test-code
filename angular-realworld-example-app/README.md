@@ -1,3 +1,13 @@
+for e2e headless:
+```shell
+  capabilities: {
+    browserName: 'chrome',
+    chromeOptions: {
+	args: ["--headless", "--disable-gpu"]
+    }
+  },
+```
+
 # ![Angular 2 Example App](logo.png)
 
 > ### Angular 4 codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
