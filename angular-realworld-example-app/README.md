@@ -1,3 +1,7 @@
+for karma unit test, simple test added at src/apps/1st.spec.ts
+see [here](https://angular.io/guide/testing) for more details
+
+
 for e2e headless:
 ```shell
   capabilities: {
