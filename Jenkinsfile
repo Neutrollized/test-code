@@ -1,4 +1,4 @@
-@Library('shared-jenkins-library@master')_
+@Library('shared-jenkins-library')_
 
 env.NAME = 'Frank'
 
